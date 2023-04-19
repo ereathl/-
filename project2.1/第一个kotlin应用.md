@@ -1,0 +1,12 @@
+# 创建第一个Kotlin应用程序
+
+- 创建Basic Activity框架
+
+![image-20230419084911416](.\img\image-20230419084911416.png)
+
+- 等待下载
+- 换源
+
+![image-20230419090746582](C:\Users\Ethereal\Desktop\softwareProject\实验文档\image-20230419090746582.png)
+
+- 
