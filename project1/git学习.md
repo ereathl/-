@@ -173,7 +173,7 @@ git分支中常用指令：git
 # 删除远程分支$ git push origin --delete [branch-name]$ git branch -dr [remote/branch]
 ```
 
-![image-20230414163512288](.\img\image-20230414163512288.png)
+![image-20230414163512288](./../img\image-20230414163512288.png)
 
 git rebase 分支名称
 
@@ -183,18 +183,18 @@ git rebase 分支名称
 
 
 
-![image-20230414165510111](.\img\image-20230414165510111.png)
+![image-20230414165510111](./../img\image-20230414165510111.png)
 
-![image-20230414165647477](.\img\image-20230414165647477.png)
+![image-20230414165647477](./../img\image-20230414165647477.png)
 
 强制移动分支
 
 git branch -f <分支名称> HEAD~<num>
 
-![image-20230414171450989](.\img\image-20230414171450989.png)
+![image-20230414171450989](./../img\image-20230414171450989.png)
 
-![image-20230414171614244](.\img\image-20230414171614244.png)
+![image-20230414171614244](./../img\image-20230414171614244.png)
 
 git revert HEAD,用来回退远程分支
 
-![image-20230414172047722](.\img\image-20230414172047722.png)
+![image-20230414172047722](./../img\image-20230414172047722.png)
