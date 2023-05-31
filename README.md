@@ -13,3 +13,5 @@
 实验三：[project3](https://github.com/ereathl/Software-project-development-coursework/tree/main/project3)
 
 实验四：[project4](https://github.com/ereathl/Software-project-development-coursework/tree/main/project4)
+
+实验五：[project5.1](https://github.com/ereathl/Software-project-development-coursework/tree/main/project5.1)
